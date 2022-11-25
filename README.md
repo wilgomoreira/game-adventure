@@ -14,6 +14,6 @@
 
 **Images:**
 
-![alt text](imagens/Screen1.jpeg)
+![alt text](imagens/Screen1.png)
 
-![alt text](imagens/Screen2.jpeg)
+![alt text](imagens/Screen2.png)
